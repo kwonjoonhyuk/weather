@@ -24,6 +24,7 @@ bin/
 *.ipr
 out/
 **/src/main/resources/application.properties
+**/src/main/resources/test.sql
 !**/src/main/**/out/
 !**/src/test/**/out/
 
