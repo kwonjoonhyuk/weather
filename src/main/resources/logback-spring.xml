@@ -57,7 +57,7 @@
         </filter>
     </appender>
 
-
+   <!-- 로그 레벨 -->
     <root level="${LOGS_LEVEL}">
         <appender-ref ref="STDOUT"/>
         <appender-ref ref="FILE"/>
